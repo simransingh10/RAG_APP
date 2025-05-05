@@ -51,11 +51,11 @@ def build_qa_chain(vector_store_path="faiss_index"):
 
 
 # Streamlit App
-st.title(" 💡 RAG Chatbot with FAISS and LLaMA - Simran")
+st.title("RAG Chatbot with FAISS and Ollama - Simran ")
 st.write("Upload a PDF and ask questions based on its content.")
 
 
-uploaded_file = st.file_uploader("Upload your PDF file 🔄 ", type="pdf")
+uploaded_file = st.file_uploader("Upload your PDF file", type="pdf")
 
 
 if uploaded_file is not None:
