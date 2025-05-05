@@ -5,6 +5,8 @@ langchain
 sentence-transformers
 faiss-cpu
 langchain-community
+pandas
+matplotlib
 
 
 # pip install -r requirements.txt ## To install all packages
