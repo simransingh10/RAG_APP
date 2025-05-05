@@ -1,0 +1,13 @@
+ollama
+streamlit
+PyPDF2 
+langchain
+sentence-transformers
+faiss-cpu
+
+
+# pip install -r requirements.txt ## To install all packages
+# streamlit run ollama.py ## to run the stream lit app , run from terminal
+
+
+                          
