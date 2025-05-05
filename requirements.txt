@@ -4,6 +4,7 @@ PyPDF2
 langchain
 sentence-transformers
 faiss-cpu
+langchain-community
 
 
 # pip install -r requirements.txt ## To install all packages
